@@ -4,7 +4,7 @@
 <p align="center">
   <strong>Mobile Software Engineer [Flutter] | Machine Learning Enthusiast | Fresh Graduate</strong><br>
   <a href="https://github.com/Mamdouh-Attia">GitHub</a> •
-  <a href="https://www.linkedin.com/in/mamdouh-ahmed-mohammed-attia-1721b01a2/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/mamdouh-atia/">LinkedIn</a> •
   <a href="mailto:mamdouhattiaa@gmail.com">Email</a>
 </p>
 
