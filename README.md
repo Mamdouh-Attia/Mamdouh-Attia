@@ -89,8 +89,8 @@ Agile experience, Figma to Flutter, MVVM & Bloc.
 
 <table>
   <tr>
-    <td><a href="https://github.com/Mamdouh-Attia/mamdouh_ahmed_portfolio"><b>Portfolio</b></a></td>
-    <td>My personal developer portfolio, showcasing my journey, skills, and selected works.</td>
+    <td><a href="https://github.com/Mamdouh-Attia/HyperMate-App"><b>HyperMate</b></a></td>
+    <td>A A Flutter mobile application integrated with ESP8266 hardware to help people with hyperhidrosis (excessive sweating) manage their condition through real-time monitoring, personalized diet recommendations, relaxation exercises, and AI-powered support.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Mamdouh-Attia/RedditX-Cross-Platform"><b>Reddit Clone (Flutter)</b></a></td>
@@ -119,14 +119,14 @@ Agile experience, Figma to Flutter, MVVM & Bloc.
 ### 📜 Certifications
 
 - [Coursera's ML Specialization](https://www.coursera.org/account/accomplishments/specialization/5SMDXZU9BLUW)
-- Huawei Artificial Intelligence HCIA-AI
+- [Huawei Artificial Intelligence HCIA-AI](https://drive.google.com/file/d/1j4InytgNfH8bIjj5XcT2NIRdzUpkuqPW/view)
 
 ---
 
 ### 🤝 Let's Connect
 
 - 📫 **Email:** mamdouhattiaa@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/mamdouh-ahmed-mohammed-attia-1721b01a2](https://www.linkedin.com/in/mamdouh-ahmed-mohammed-attia-1721b01a2/)
+- 💼 **LinkedIn:** [linkedin.com/in/mamdouh-atia](https://www.linkedin.com/in/mamdouh-atia/)
 
 <p align="center">
   <em>“Consistency is key”</em>
