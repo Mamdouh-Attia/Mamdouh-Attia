@@ -1,55 +1,32 @@
-<!-- Mamdouh Attia | GitHub Profile README -->
+<!-- Mamdouh Attia | Professional GitHub Profile -->
 
 <h1 align="center">Hi there 👋, I'm Mamdouh Attia</h1>
 <p align="center">
   <strong>Mobile Software Engineer [Flutter] | Machine Learning Enthusiast | Fresh Graduate</strong><br>
-  <a href="https://github.com/Mamdouh-Attia">GitHub</a> •
-  <a href="https://www.linkedin.com/in/mamdouh-atia/">LinkedIn</a> •
-  <a href="mailto:mamdouhattiaa@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <a href="Mamdouh_Ahmed_Attia.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20CV-PDF-blueviolet?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Mamdouh Attia's CV"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Verilog-FF6600?logo=verilog&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hive-FDD835?logo=hive&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Shared%20Prefs-607D8B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bloc-21B6A8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Provider-0A8F7A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MVC-00796B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MVVM-673AB7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-00C7B7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-0077B5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-512BD4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-FFD600?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Azure%20AI-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Socket%20Programming-6A1B9A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OOP-388E3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SOLID-00BCD4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Design%20Patterns-8E24AA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Huawei-FF0000?logo=huawei&logoColor=white&style=for-the-badge"/>
-</p>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mamdouh-atia/)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamdouhattiaa@gmail.com)
+  [![CV](https://img.shields.io/badge/Resume-View_PDF-2CA5E0?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Mamdouh_Ahmed_Attia.pdf)
+
+  <br>
+  
+  <p align="center">
+    <b>Building impactful mobile experiences & scalable software systems.</b><br>
+    <i>"Consistency is key"</i>
+  </p>
+</div>
+
+---
+
+### 🚀 About Me
+
+- 💡 **Passionate** about building impactful mobile applications and solving real-world problems.
+- 🎓 **Fresh Graduate** from Cairo University, Computer Engineering (Class of 2024).
+- 🏆 **Experienced** in Flutter, Python, C/C++, and Machine Learning.
+- 🔑 **Motto**: *Consistency is key*
 
 ---
 
@@ -57,60 +34,160 @@
 
 #### 🧑‍💻 Machine Learning Engineer Instructor  
 **DEPI Initiative, Ministry of Communications & IT** (Aug 2024 – Oct 2024)  
-Designed and delivered ML training for aspiring engineers.
+Designed and delivered comprehensive ML training curricula for aspiring engineers, focusing on practical implementation.
 
 #### 📱 Flutter Developer (Freelance)  
 **Aug 2023 – Present**  
-Developed mobile solutions for 5+ clients, end-to-end.
+Developed end-to-end mobile solutions for 5+ clients, delivering high-performance cross-platform applications.
 
 #### 👨‍💻 Flutter Instructor  
 **Primalab** (Aug 2023 – Feb 2024)  
-Project-based Dart/Flutter teaching for beginners.
+Led project-based Dart & Flutter workshops, mentoring beginners through the app development lifecycle.
 
 #### 🏢 Flutter Developer Intern  
 **Orange Digital Center** (Jun 2023 – Sep 2023)  
-Agile experience, Figma to Flutter, MVVM & Bloc.  
-<a href="https://drive.google.com/file/d/1dN2UPmg3Sql1kX3vJuBlea1_P1D4l6dk/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Certificate-orange?logo=google-drive&logoColor=white&style=flat-square"/>
-</a>
+Gained hands-on Agile experience; translated Figma designs into pixel-perfect Flutter code using **MVVM** and **Bloc**.
 
 ---
 
-### 🚀 About Me
+### 🛠️ Technical Arsenal
 
-- 💡 Passionate about building impactful mobile applications and solving real-world problems.
-- 🎓 Fresh graduate from Cairo University, Computer Engineering.
-- 🏆 Experienced in Flutter, Python, C/C++, and Machine Learning.
-- 🔑 Motto: **Consistency is key**
+<div align="center">
+
+| **Core** | **Mobile (Flutter)** | **AI & Data** | **Systems & Tools** |
+| :---: | :---: | :---: | :---: |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-Strong-green?style=flat) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Provider](https://img.shields.io/badge/State-Provider-00C7B7?style=flat) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![NLP](https://img.shields.io/badge/AI-NLP_&_Deep_Learning-512BD4?style=flat) | ![Design Patterns](https://img.shields.io/badge/Skills-Design_Patterns-8E24AA?style=flat) ![Agile](https://img.shields.io/badge/Workflow-Agile_Scrum-blue?style=flat) |
+
+</div>
 
 ---
 
 ### 🌟 Featured Projects
 
+#### 📱 Mobile Engineering (Flutter & IoT)
 <table>
   <tr>
-    <td><a href="https://github.com/Mamdouh-Attia/HyperMate-App"><b>HyperMate</b></a></td>
-    <td>A A Flutter mobile application integrated with ESP8266 hardware to help people with hyperhidrosis (excessive sweating) manage their condition through real-time monitoring, personalized diet recommendations, relaxation exercises, and AI-powered support.</td>
+    <td width="50%">
+      <h3 align="center">🔴 ReddiX (Reddit Clone)</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Provider-MVC+S-success?style=flat-square" />
+      </div>
+      <p>A high-fidelity social network simulation built to mimic real-world production scale. Features complex state management, <b>MVC+S architecture</b>, and seamless backend integration.</p>
+      <div align="center">
+        <a href="https://github.com/Mamdouh-Attia/RedditX-Cross-Platform">View Project ➜</a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">💊 HyperMate (IoT Health)</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Flutter-IoT-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Hardware-ESP8266-FF6F00?style=flat-square" />
+      </div>
+      <p>An awarding-winning wellness app integrating mobile software with hardware sensors (GSR) to monitor anxiety levels in real-time and provide AI-driven support.</p>
+      <div align="center">
+        <a href="https://github.com/Mamdouh-Attia/HyperMate-App">View Project ➜</a>
+      </div>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Mamdouh-Attia/RedditX-Cross-Platform"><b>Reddit Clone (Flutter)</b></a></td>
-    <td>A full-featured Reddit mobile app clone, built with Flutter using MVC-S, REST APIs, and Agile methodology.</td>
+    <td width="50%">
+      <h3 align="center">💸 TapCash (Fintech)</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Flutter-Fintech-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/UI/UX-Premium-purple?style=flat-square" />
+      </div>
+      <p>A secure, cross-platform digital wallet application focusing on premium UX, smooth animations, and high-performance financial transaction handling.</p>
+      <div align="center">
+        <a href="https://github.com/Mamdouh-Attia/tapcash-Cross-Platform">View Project ➜</a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤝 VolunTeen (Social)</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Flutter-Freelance-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI-GPT_Integration-blue?style=flat-square" />
+      </div>
+      <p>A comprehensive social platform connecting youth with volunteering opportunities. Features <b>VolunGuideBot</b> (AI Assistant) and real-time help requests.</p>
+      <div align="center">
+        <a href="https://github.com/Mamdouh-Attia/VolunTeen-App">View Project ➜</a>
+      </div>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Mamdouh-Attia/Logic-Simulator"><b>Logic Simulator</b></a></td>
-    <td>Windows app for digital circuit design and simulation. Includes save, undo/redo, and advanced OOP design.</td>
+    <td width="50%">
+      <h3 align="center">🏷️ Check-It (Utility)</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Flutter-Consumer_Tech-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Feature-Barcode_Scanning-orange?style=flat-square" />
+      </div>
+      <p>A consumer protection tool empowering shoppers to combat price gouging. Features real-time price comparison, barcode scanning, and community reporting.</p>
+      <div align="center">
+        <a href="https://github.com/Mamdouh-Attia/Check-It-App">View Project ➜</a>
+      </div>
+    </td>
+    <td width="50%">
+      <!-- Friendly Spacer -->
+    </td>
+  </tr>
+</table>
+
+#### 🧠 Systems & Research Engineering
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🕷️ High-Performance Search Engine</h3>
+      <p>A scalable <b>Web Crawler & Indexer</b> built from scratch in Java. Features multithreading, ethical scraping policies, and PageRank implementation.</p>
+      <p><i>Tech: Java, Multithreading, Distributed Systems</i></p>
+      <a href="https://github.com/Mamdouh-Attia/Search-Engine">View Repository ➜</a>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚌 OS Scheduler</h3>
+      <p><b>Linux CPU Multi-level Scheduler</b> simulation implemented in C. Focuses on Inter-Process Communication (IPC) and synchronization.</p>
+      <p><i>Tech: C, Unix Signals, Message Queues</i></p>
+      <a href="https://github.com/Mamdouh-Attia/OS-scheduler">View Repository ➜</a>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Mamdouh-Attia/DT_MARS-EXPLORE_PROJECT"><b>Mars Rovers Station</b></a></td>
-    <td>Team project for Mars mission scheduling and operations, using advanced data structures and algorithms.</td>
+    <td width="50%">
+      <h3 align="center">⚡ MIPS Processor</h3>
+      <p>A <b>5-stage Pipelined MIPS CPU</b> design in Verilog. Handles data hazards, stalling, and forwarding logic at the hardware level.</p>
+      <a href="https://github.com/Mamdouh-Attia/Project_Processor">View Repository ➜</a>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔌 Logic Simulator</h3>
+      <p>Interactive desktop software for designing and simulating digital logic circuits. Built with C++ and advanced OOP Design Patterns.</p>
+      <a href="https://github.com/Mamdouh-Attia/Logic-Simulator">View Repository ➜</a>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Mamdouh-Attia/RSA_E2E_encryption"><b>RSA E2E Encrypted Chat</b></a></td>
-    <td>Python-based secure chat service with end-to-end RSA encryption and real-time messaging.</td>
+    <td width="50%">
+      <h3 align="center">📂 Distributed File System</h3>
+      <p>A fault-tolerant <b>Distributed File System</b> supporting MP4 streaming and replication. Built with Go for high-concurrency performance.</p>
+      <p><i>Tech: Go (Golang), Distributed Systems</i></p>
+      <a href="https://github.com/Mamdouh-Attia/Distributed_file_system">View Repository ➜</a>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔐 RSA Encrypted Chat</h3>
+      <p>End-to-End Encrypted Chatting Service implementing <b>RSA Algorithm</b> from scratch using Python Sockets for secure communication.</p>
+      <p><i>Tech: Python, Cryptography, Sockets</i></p>
+      <a href="https://github.com/Mamdouh-Attia/RSA_E2E_encryption">View Repository ➜</a>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Mamdouh-Attia/Web-page-Phishing-Detection"><b>Web-page Phishing Detection</b></a></td>
-    <td>Machine learning system to detect phishing sites, using 12+ ML models and advanced evaluation techniques.</td>
+    <td width="50%">
+      <h3 align="center">🐍 Gamingo (Game Engine)</h3>
+      <p>A custom <b>3D Game Engine</b> built in C++. Implements core graphics rendering, physics simulation, and entity management.</p>
+      <p><i>Tech: C++, Computer Graphics</i></p>
+      <a href="https://github.com/Mamdouh-Attia/Gamingo">View Repository ➜</a>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚀 Mars Exploration</h3>
+      <p>A complex mission scheduling simulation for Mars Rovers. Optimized using advanced <b>Data Structures</b> for efficient resource allocation.</p>
+      <p><i>Tech: C++, Algorithms, Data Structures</i></p>
+      <a href="https://github.com/Mamdouh-Attia/DT_MARS-EXPLORE_PROJECT">View Repository ➜</a>
+    </td>
   </tr>
 </table>
 
@@ -118,16 +195,28 @@ Agile experience, Figma to Flutter, MVVM & Bloc.
 
 ### 📜 Certifications
 
-- [Coursera's ML Specialization](https://www.coursera.org/account/accomplishments/specialization/5SMDXZU9BLUW)
-- [Huawei Artificial Intelligence HCIA-AI](https://drive.google.com/file/d/1j4InytgNfH8bIjj5XcT2NIRdzUpkuqPW/view)
+- **[Coursera's ML Specialization](https://www.coursera.org/account/accomplishments/specialization/5SMDXZU9BLUW)** – Stanford Online
+- **[Huawei Artificial Intelligence HCIA-AI](https://drive.google.com/file/d/1j4InytgNfH8bIjj5XcT2NIRdzUpkuqPW/view)** – Huawei Talent
 
 ---
 
-### 🤝 Let's Connect
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mamdouh-Attia/Mamdouh-Attia/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mamdouh-Attia/Mamdouh-Attia/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mamdouh-Attia/Mamdouh-Attia/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-- 📫 **Email:** mamdouhattiaa@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/mamdouh-atia](https://www.linkedin.com/in/mamdouh-atia/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamdouh-Attia&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <em>“Consistency is key”</em>
-</p>
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mamdouh-atia/">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
