@@ -30,26 +30,6 @@
 
 ---
 
-### 👨‍💼 Professional Experience
-
-#### 🧑‍💻 Machine Learning Engineer Instructor  
-**DEPI Initiative, Ministry of Communications & IT** (Aug 2024 – Oct 2024)  
-Designed and delivered comprehensive ML training curricula for aspiring engineers, focusing on practical implementation.
-
-#### 📱 Flutter Developer (Freelance)  
-**Aug 2023 – Present**  
-Developed end-to-end mobile solutions for 5+ clients, delivering high-performance cross-platform applications.
-
-#### 👨‍💻 Flutter Instructor  
-**Primalab** (Aug 2023 – Feb 2024)  
-Led project-based Dart & Flutter workshops, mentoring beginners through the app development lifecycle.
-
-#### 🏢 Flutter Developer Intern  
-**Orange Digital Center** (Jun 2023 – Sep 2023)  
-Gained hands-on Agile experience; translated Figma designs into pixel-perfect Flutter code using **MVVM** and **Bloc**.
-
----
-
 ### 🛠️ Technical Arsenal
 
 <div align="center">
@@ -190,6 +170,26 @@ Gained hands-on Agile experience; translated Figma designs into pixel-perfect Fl
     </td>
   </tr>
 </table>
+
+---
+
+### 👨‍💼 Professional Experience
+
+#### 🧑‍💻 Machine Learning Engineer Instructor  
+**DEPI Initiative, Ministry of Communications & IT** (Aug 2024 – Oct 2024)  
+Designed and delivered comprehensive ML training curricula for aspiring engineers, focusing on practical implementation.
+
+#### 📱 Flutter Developer (Freelance)  
+**Aug 2023 – Present**  
+Developed end-to-end mobile solutions for 5+ clients, delivering high-performance cross-platform applications.
+
+#### 👨‍💻 Flutter Instructor  
+**Primalab** (Aug 2023 – Feb 2024)  
+Led project-based Dart & Flutter workshops, mentoring beginners through the app development lifecycle.
+
+#### 🏢 Flutter Developer Intern  
+**Orange Digital Center** (Jun 2023 – Sep 2023)  
+Gained hands-on Agile experience; translated Figma designs into pixel-perfect Flutter code using **MVVM** and **Bloc**.
 
 ---
 
