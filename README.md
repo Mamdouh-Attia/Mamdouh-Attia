@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Mamdouh Attia</h1>
 <p align="center">
-  <strong>Mobile Software Engineer [Flutter] | Machine Learning Enthusiast | Fresh Graduate</strong><br>
+  <strong>Mobile Software Engineer [Flutter] | Machine Learning Enthusiast </strong><br>
 </p>
 
 <div align="center">
@@ -27,6 +27,7 @@
 - 🎓 **Fresh Graduate** from Cairo University, Computer Engineering (Class of 2024).
 - 🏆 **Experienced** in Flutter, Python, C/C++, and Machine Learning.
 - 🔑 **Motto**: *Consistency is key*
+- 👨‍💻 **Currently**: Working on [🛍️ShopNow](https://github.com/Mamdouh-Attia/Shop-Now-App) to reinforce advanced flutter concepts!
 
 ---
 
