@@ -24,10 +24,10 @@
 ### 🚀 About Me
 
 - 💡 **Passionate** about building impactful mobile applications and solving real-world problems.
-- 🎓 **Fresh Graduate** from Cairo University, Computer Engineering (Class of 2024).
+- 🎓 **Computer Engineer** - Cairo University.
 - 🏆 **Experienced** in Flutter, Python, C/C++, and Machine Learning.
 - 🔑 **Motto**: *Consistency is key*
-- 👨‍💻 **Currently**: Working on [🛍️ShopNow](https://github.com/Mamdouh-Attia/Shop-Now-App) to reinforce advanced flutter concepts!
+- 👨‍💻 **Currently**: Contributing to Open Source Project! : [mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter) 
 
 ---
 
