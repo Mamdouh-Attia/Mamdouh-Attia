@@ -2,14 +2,14 @@
 
 <h1 align="center">Hi there 👋, I'm Mamdouh Attia</h1>
 <p align="center">
-  <strong>Mobile Software Engineer [Flutter] | Machine Learning Enthusiast </strong><br>
+  <strong>📱 Mobile Software Engineer [Flutter] | Machine Learning Enthusiast </strong><br>
 </p>
 
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mamdouh-atia/)
   [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamdouhattiaa@gmail.com)
-  [![CV](https://img.shields.io/badge/Resume-View_PDF-2CA5E0?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Mamdouh_Ahmed_Attia.pdf)
+  [![CV](https://img.shields.io/badge/Resume-View_PDF-2CA5E0?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Mamdouh_Attia_Flutter_Developer.pdf)
 
   <br>
   
@@ -109,7 +109,15 @@
       </div>
     </td>
     <td width="50%">
-      <!-- Friendly Spacer -->
+      <h3 align="center">♻️ EcoSort (IoT & Sustainability)</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Flutter-Firebase-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/API-Blync_IoT-blue?style=flat-square" />
+      </div>
+      <p>A smart recycling solution that connects to hardware sensors via <b>Blync API</b>. Features real-time status monitoring, QR scanning, and a gamified reward system.</p>
+      <div align="center">
+        <a href="https://github.com/Mamdouh-Attia">View Repository ➜</a>
+      </div>
     </td>
   </tr>
 </table>
@@ -176,28 +184,30 @@
 
 ### 👨‍💼 Professional Experience
 
-#### 🧑‍💻 Machine Learning Engineer Instructor  
-**DEPI Initiative, Ministry of Communications & IT** (Aug 2024 – Oct 2024)  
-Designed and delivered comprehensive ML training curricula for aspiring engineers, focusing on practical implementation.
+####  Flutter Developer (Freelance)  
+**Sep 2023 – Present** | **Hybrid**  
+- 🚀 **Delivered 3+ production-ready Flutter applications** for real-world clients as a solo developer, overseeing the complete SDLC.
+- 🔗 Developed a **stress monitoring app** connecting to ESP8266 via Wi-Fi and integrated **Blync API** for real-time hardware sensor data.
+- 🏬 Built **Check-It**, a retail transparency tool for price verification, 
+- 🤝 Built **VolunTeen**, a volunteering platform with 40+ responsive screens.
+- 🤖 Integrated **AI chatbots (GPT-3)**, in-app video players, and third-party services into high-performance mobile solutions.
+- 🔐 Implemented advanced features including **QR/Barcode scanning**, **Firebase Auth**, **Push Notifications**, and reward systems.
+- 🏗️ Leveraged **MVC/MVVM architectures** with **Provider & Bloc** for scalable and maintainable state management.
 
-#### 📱 Flutter Developer (Freelance)  
-**Aug 2023 – Present**  
-Developed end-to-end mobile solutions for 5+ clients, delivering high-performance cross-platform applications.
-
-#### 👨‍💻 Flutter Instructor  
-**Primalab** (Aug 2023 – Feb 2024)  
-Led project-based Dart & Flutter workshops, mentoring beginners through the app development lifecycle.
-
-#### 🏢 Flutter Developer Intern  
-**Orange Digital Center** (Jun 2023 – Sep 2023)  
-Gained hands-on Agile experience; translated Figma designs into pixel-perfect Flutter code using **MVVM** and **Bloc**.
+#### 🏢 Flutter Developer  
+**Orange Digital Center Software House** (Jun 2023 – Sep 2023) | **Cairo, Egypt (Hybrid)**  
+- 👥 Collaborated in **Agile teams** on internal mobile applications and a hackathon-winning **Fintech E-wallet app (TabCash)**.
+- 🎨 Translated high-fidelity **Figma designs** into pixel-perfect, responsive Flutter UI components.
+- ⚖️ Implemented clean code practices using **MVVM architecture** and **Bloc/Cubit** for robust application logic.
 
 ---
 
 ### 📜 Certifications
 
-- **[Coursera's ML Specialization](https://www.coursera.org/account/accomplishments/specialization/5SMDXZU9BLUW)** – Stanford Online
-- **[Huawei Artificial Intelligence HCIA-AI](https://drive.google.com/file/d/1j4InytgNfH8bIjj5XcT2NIRdzUpkuqPW/view)** – Huawei Talent
+- 🏆 **[GitHub Professional Certificate: Career Essentials](https://www.linkedin.com/learning/certificates/6fe0d0f9fd710c68eb1cbaf4ce46bfc2a9ab76b150b7353fb7634f150aecc049)** – Microsoft & GitHub (2026)
+- 🎓 **[Coursera's ML Specialization](https://www.coursera.org/account/accomplishments/specialization/5SMDXZU9BLUW)** – Stanford Online (2024)
+- 🤖 **[Huawei Artificial Intelligence HCIA-AI](https://drive.google.com/file/d/1j4InytgNfH8bIjj5XcT2NIRdzUpkuqPW/view)** – Huawei Talent (2021)
+- 📱 **[Orange Digital Center Flutter Internship](https://drive.google.com/file/d/1dN2UPmg3Sql1kX3vJuBlea1_P1D4l6dk/view?usp=sharing)** – ODC (2023)
 
 ---
 
