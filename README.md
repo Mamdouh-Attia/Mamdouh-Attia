@@ -25,9 +25,9 @@
 
 - 💡 **Passionate** about building impactful mobile applications and solving real-world problems.
 - 🎓 **Computer Engineer** - Cairo University.
-- 🏆 **Experienced** in Flutter, Python, C/C++, and Machine Learning.
+- 👨‍💻 **Experienced** in Flutter, Python, C/C++, and Machine Learning.
 - 🔑 **Motto**: *Consistency is key*
-- 👨‍💻 **Currently**: Contributing to Open Source Project! : [mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter) 
+- 🏆 **My latest achievement**: Contributed to Open Source Project! : [mushaf-imad-flutter Package](https://github.com/Itqan-community/mushaf-imad-flutter) , [Check this PR](https://github.com/Itqan-community/mushaf-imad-flutter/pull/27)
 
 ---
 
@@ -218,10 +218,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mamdouh-Attia/Mamdouh-Attia/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mamdouh-Attia/Mamdouh-Attia/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamdouh-Attia&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
 </div>
 
 ---
